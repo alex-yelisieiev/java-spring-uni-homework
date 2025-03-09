@@ -1,19 +1,24 @@
 package com.yelisieiev.controller;
 
 import com.yelisieiev.model.Employee;
+import com.yelisieiev.repository.EmployeeRepository;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
 import jakarta.validation.Valid;
-import java.util.ArrayList;
 import java.util.List;
 
 @Controller
 public class WebController {
 
-    private List<Employee> employees = new ArrayList<>();
-    private Long nextId = 1L;
+    private final EmployeeRepository employeeRepository;
+
+    @Autowired
+    public WebController(EmployeeRepository employeeRepository) {
+        this.employeeRepository = employeeRepository;
+    }
 
     @GetMapping("/")
     public String home() {
@@ -22,6 +27,7 @@ public class WebController {
 
     @GetMapping("/employees")
     public String getAllEmployees(Model model) {
+        List<Employee> employees = employeeRepository.findAll();
         model.addAttribute("employees", employees);
         return "employees/list";
     }
@@ -39,19 +45,18 @@ public class WebController {
             return "employees/add";
         }
         
-        employee.setId(nextId++);
-        employees.add(employee);
+        employeeRepository.save(employee);
         return "redirect:/employees";
     }
 
     @GetMapping("/employees/edit/{id}")
     public String showEditForm(@PathVariable Long id, Model model) {
-        Employee employee = findEmployeeById(id);
-        if (employee != null) {
-            model.addAttribute("employee", employee);
-            return "employees/edit";
-        }
-        return "redirect:/employees";
+        return employeeRepository.findById(id)
+                .map(employee -> {
+                    model.addAttribute("employee", employee);
+                    return "employees/edit";
+                })
+                .orElse("redirect:/employees");
     }
 
     @PostMapping("/employees/edit/{id}")
@@ -62,40 +67,24 @@ public class WebController {
             return "employees/edit";
         }
         
-        Employee existingEmployee = findEmployeeById(id);
-        if (existingEmployee != null) {
-            existingEmployee.setFirstName(employee.getFirstName());
-            existingEmployee.setLastName(employee.getLastName());
-            existingEmployee.setEmail(employee.getEmail());
-            existingEmployee.setPosition(employee.getPosition());
-            existingEmployee.setSalary(employee.getSalary());
-        }
+        employee.setId(id);
+        employeeRepository.update(employee);
         return "redirect:/employees";
     }
 
     @GetMapping("/employees/delete/{id}")
     public String deleteEmployee(@PathVariable Long id) {
-        Employee employee = findEmployeeById(id);
-        if (employee != null) {
-            employees.remove(employee);
-        }
+        employeeRepository.deleteById(id);
         return "redirect:/employees";
     }
 
     @GetMapping("/employees/view/{id}")
     public String viewEmployee(@PathVariable Long id, Model model) {
-        Employee employee = findEmployeeById(id);
-        if (employee != null) {
-            model.addAttribute("employee", employee);
-            return "employees/view";
-        }
-        return "redirect:/employees";
-    }
-
-    private Employee findEmployeeById(Long id) {
-        return employees.stream()
-                .filter(e -> e.getId().equals(id))
-                .findFirst()
-                .orElse(null);
+        return employeeRepository.findById(id)
+                .map(employee -> {
+                    model.addAttribute("employee", employee);
+                    return "employees/view";
+                })
+                .orElse("redirect:/employees");
     }
 }
