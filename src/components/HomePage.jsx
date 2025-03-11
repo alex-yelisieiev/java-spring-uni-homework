@@ -1,6 +1,5 @@
 import React from 'react';
 import { Container, Typography, Paper, Box } from '@mui/material';
-
 const HomePage = () => {
     return (
         <Container maxWidth="lg">
