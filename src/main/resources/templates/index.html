@@ -42,7 +42,7 @@
         </div>
         
         <div class="row mt-4">
-            <div class="col-12">
+            <div class="col-md-6">
                 <div class="card">
                     <div class="card-header bg-info text-white">
                         <h5 class="mb-0">API Documentation</h5>
@@ -56,6 +56,22 @@
                             <li><strong>PUT /api/employees/{id}</strong> - Update employee</li>
                             <li><strong>DELETE /api/employees/{id}</strong> - Delete employee</li>
                         </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header bg-warning text-white">
+                        <h5 class="mb-0">Spring AOP Features</h5>
+                    </div>
+                    <div class="card-body">
+                        <p>View and test the Spring AOP features implemented in this application:</p>
+                        <ul>
+                            <li>Field modification before database save</li>
+                            <li>Controller method logging</li>
+                        </ul>
+                        <a th:href="@{/aop-demo}" class="btn btn-warning">View AOP Demo</a>
                     </div>
                 </div>
             </div>

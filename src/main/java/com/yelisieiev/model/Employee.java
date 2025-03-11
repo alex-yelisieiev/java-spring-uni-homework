@@ -18,7 +18,6 @@ public class Employee {
     @Email(message = "Please provide a valid email address")
     private String email;
     
-    @NotBlank(message = "Position is required")
     private String position;
     
     @NotNull(message = "Salary is required")
