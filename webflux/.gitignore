@@ -4,8 +4,6 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
-    
-/src/main/resources/db.conf
 
 ### STS ###
 .apt_generated
@@ -37,5 +35,3 @@ out/
 
 ### VS Code ###
 .vscode/
-logs/controller-aspect.log
-logs/controller-aspect.log.2025-03-12.0.gz
