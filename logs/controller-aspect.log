@@ -1,0 +1,426 @@
+2025-03-20 17:47:02 [main] INFO  c.y.project.ProjectApplication - Starting ProjectApplication using Java 21.0.4 with PID 7372 (C:\Users\Admin\Desktop\project\project\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\project\project)
+2025-03-20 17:47:02 [main] DEBUG c.y.project.ProjectApplication - Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-20 17:47:02 [main] INFO  c.y.project.ProjectApplication - No active profile set, falling back to 1 default profile: "default"
+2025-03-20 17:47:06 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-03-20 17:47:06 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-03-20 17:47:06 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-20 17:47:07 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-03-20 17:47:07 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4455 ms
+2025-03-20 17:47:09 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userService
+2025-03-20 17:47:09 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2025-03-20 17:47:10 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-03-20 17:47:10 [main] INFO  c.y.project.ProjectApplication - Started ProjectApplication in 9.426 seconds (process running for 10.622)
+2025-03-20 17:47:15 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-20 17:47:15 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-03-20 17:47:15 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-03-20 17:52:38 [main] INFO  c.y.project.ProjectApplication - Starting ProjectApplication using Java 21.0.4 with PID 14912 (C:\Users\Admin\Desktop\project\project\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\project\project)
+2025-03-20 17:52:38 [main] DEBUG c.y.project.ProjectApplication - Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-20 17:52:38 [main] INFO  c.y.project.ProjectApplication - No active profile set, falling back to 1 default profile: "default"
+2025-03-20 17:52:41 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-03-20 17:52:41 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-03-20 17:52:41 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-20 17:52:41 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-03-20 17:52:41 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3065 ms
+2025-03-20 17:52:43 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userService
+2025-03-20 17:52:43 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2025-03-20 17:52:45 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-03-20 17:52:45 [main] INFO  c.y.project.ProjectApplication - Started ProjectApplication in 8.447 seconds (process running for 9.523)
+2025-03-20 17:52:55 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-20 17:52:55 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-03-20 17:52:55 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-03-20 18:01:45 [main] INFO  c.y.project.ProjectApplication - Starting ProjectApplication using Java 21.0.4 with PID 20316 (C:\Users\Admin\Desktop\project\project\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\project\project)
+2025-03-20 18:01:45 [main] DEBUG c.y.project.ProjectApplication - Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-20 18:01:45 [main] INFO  c.y.project.ProjectApplication - No active profile set, falling back to 1 default profile: "default"
+2025-03-20 18:01:53 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-03-20 18:01:53 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-03-20 18:01:53 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-20 18:01:53 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-03-20 18:01:53 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 7226 ms
+2025-03-20 18:01:56 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userService
+2025-03-20 18:01:56 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2025-03-20 18:02:00 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-03-20 18:02:00 [main] INFO  c.y.project.ProjectApplication - Started ProjectApplication in 17.69 seconds (process running for 20.246)
+2025-03-20 18:05:36 [main] INFO  c.y.project.ProjectApplication - Starting ProjectApplication using Java 21.0.4 with PID 21856 (C:\Users\Admin\Desktop\project\project\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\project\project)
+2025-03-20 18:05:36 [main] DEBUG c.y.project.ProjectApplication - Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-20 18:05:36 [main] INFO  c.y.project.ProjectApplication - No active profile set, falling back to 1 default profile: "default"
+2025-03-20 18:05:40 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-03-20 18:05:40 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-03-20 18:05:40 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-20 18:05:40 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-03-20 18:05:40 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3476 ms
+2025-03-20 18:05:42 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userService
+2025-03-20 18:05:42 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2025-03-20 18:05:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-03-20 18:05:43 [main] INFO  c.y.project.ProjectApplication - Started ProjectApplication in 7.487 seconds (process running for 8.217)
+2025-03-20 18:06:40 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-20 18:06:40 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-03-20 18:06:40 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-03-20 18:09:31 [main] INFO  c.y.project.ProjectApplication - Starting ProjectApplication using Java 21.0.4 with PID 1348 (C:\Users\Admin\Desktop\project\project\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\project\project)
+2025-03-20 18:09:31 [main] DEBUG c.y.project.ProjectApplication - Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-20 18:09:31 [main] INFO  c.y.project.ProjectApplication - No active profile set, falling back to 1 default profile: "default"
+2025-03-20 18:09:35 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-03-20 18:09:35 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-03-20 18:09:35 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-20 18:09:35 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-03-20 18:09:35 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3948 ms
+2025-03-20 18:09:37 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userService
+2025-03-20 18:09:37 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2025-03-20 18:09:39 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-03-20 18:09:39 [main] INFO  c.y.project.ProjectApplication - Started ProjectApplication in 8.929 seconds (process running for 9.862)
+2025-03-20 18:09:39 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-20 18:09:39 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-03-20 18:09:39 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2025-03-20 18:20:01 [main] INFO  c.y.project.ProjectApplication - Starting ProjectApplication using Java 21.0.4 with PID 16288 (C:\Users\Admin\Desktop\project\project\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\project\project)
+2025-03-20 18:20:01 [main] DEBUG c.y.project.ProjectApplication - Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-20 18:20:01 [main] INFO  c.y.project.ProjectApplication - No active profile set, falling back to 1 default profile: "default"
+2025-03-20 18:20:05 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-03-20 18:20:05 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-03-20 18:20:05 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-20 18:20:05 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-03-20 18:20:05 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3862 ms
+2025-03-20 18:20:07 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userService
+2025-03-20 18:20:07 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2025-03-20 18:20:08 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-03-20 18:20:08 [main] INFO  c.y.project.ProjectApplication - Started ProjectApplication in 8.016 seconds (process running for 9.134)
+2025-03-20 18:20:37 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-20 18:20:37 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-03-20 18:20:37 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-03-20 18:20:49 [http-nio-8080-exec-2] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: getAllEmployees
+Arguments: [{employees=[com.yelisieiev.project.model.Employee@52f6dfe3, com.yelisieiev.project.model.Employee@5cddc5e1, com.yelisieiev.project.model.Employee@307c9b3c, com.yelisieiev.project.model.Employee@1bc8ffb6, com.yelisieiev.project.model.Employee@7f2532eb, com.yelisieiev.project.model.Employee@4de51223, com.yelisieiev.project.model.Employee@1994d5d8, com.yelisieiev.project.model.Employee@45fdac13, com.yelisieiev.project.model.Employee@13997c2d, com.yelisieiev.project.model.Employee@76081077, com.yelisieiev.project.model.Employee@498d317b, com.yelisieiev.project.model.Employee@61b8816d, com.yelisieiev.project.model.Employee@3998e163]}]
+Return value: employees/list
+==================
+
+2025-03-20 18:20:59 [http-nio-8080-exec-6] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: showEditForm
+Arguments: [218, {employee=com.yelisieiev.project.model.Employee@8c20e4e}]
+Return value: employees/edit
+==================
+
+2025-03-20 18:21:03 [http-nio-8080-exec-5] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: updateEmployee
+Arguments: [218, com.yelisieiev.project.model.Employee@369b8a3c, org.springframework.validation.BeanPropertyBindingResult: 0 errors]
+Return value: redirect:/employees
+==================
+
+2025-03-20 18:21:03 [http-nio-8080-exec-7] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: getAllEmployees
+Arguments: [{employees=[com.yelisieiev.project.model.Employee@3af2decd, com.yelisieiev.project.model.Employee@3ecd4d4b, com.yelisieiev.project.model.Employee@7bcfd4f6, com.yelisieiev.project.model.Employee@6656314a, com.yelisieiev.project.model.Employee@4a7e8ffb, com.yelisieiev.project.model.Employee@1e0d34ea, com.yelisieiev.project.model.Employee@1be02bb9, com.yelisieiev.project.model.Employee@4ceb95ee, com.yelisieiev.project.model.Employee@7254dadf, com.yelisieiev.project.model.Employee@5091a1b, com.yelisieiev.project.model.Employee@1fae54e0, com.yelisieiev.project.model.Employee@f7ae61e, com.yelisieiev.project.model.Employee@5b2c470c]}]
+Return value: employees/list
+==================
+
+2025-03-20 18:21:07 [http-nio-8080-exec-8] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: deleteEmployee
+Arguments: [212]
+Return value: redirect:/employees
+==================
+
+2025-03-20 18:21:08 [http-nio-8080-exec-9] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: getAllEmployees
+Arguments: [{employees=[com.yelisieiev.project.model.Employee@555dd92a, com.yelisieiev.project.model.Employee@5b9a3df1, com.yelisieiev.project.model.Employee@5fa5b25a, com.yelisieiev.project.model.Employee@1aa737ca, com.yelisieiev.project.model.Employee@2108293d, com.yelisieiev.project.model.Employee@2bf7ed58, com.yelisieiev.project.model.Employee@59b2ad1e, com.yelisieiev.project.model.Employee@7a88c885, com.yelisieiev.project.model.Employee@1aa95728, com.yelisieiev.project.model.Employee@e20f408, com.yelisieiev.project.model.Employee@42b6628f, com.yelisieiev.project.model.Employee@7ec656bc]}]
+Return value: employees/list
+==================
+
+2025-03-20 18:21:10 [http-nio-8080-exec-10] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: deleteEmployee
+Arguments: [196]
+Return value: redirect:/employees
+==================
+
+2025-03-20 18:21:10 [http-nio-8080-exec-1] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: getAllEmployees
+Arguments: [{employees=[com.yelisieiev.project.model.Employee@4afe8e63, com.yelisieiev.project.model.Employee@771b26d3, com.yelisieiev.project.model.Employee@7e6baa68, com.yelisieiev.project.model.Employee@44b55dc8, com.yelisieiev.project.model.Employee@7a065eab, com.yelisieiev.project.model.Employee@5405d286, com.yelisieiev.project.model.Employee@771e1a84, com.yelisieiev.project.model.Employee@192b42b2, com.yelisieiev.project.model.Employee@5110a43a, com.yelisieiev.project.model.Employee@2b7bdd7c, com.yelisieiev.project.model.Employee@2cb638ad]}]
+Return value: employees/list
+==================
+
+2025-03-20 18:21:13 [http-nio-8080-exec-3] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: showAddEmployeeForm
+Arguments: [{employee=com.yelisieiev.project.model.Employee@6943daca}]
+Return value: employees/add
+==================
+
+2025-03-20 18:21:34 [http-nio-8080-exec-4] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: addEmployee
+Arguments: [com.yelisieiev.project.model.Employee@2c00bccf, org.springframework.validation.BeanPropertyBindingResult: 0 errors]
+Return value: redirect:/employees
+==================
+
+2025-03-20 18:21:34 [http-nio-8080-exec-2] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: getAllEmployees
+Arguments: [{employees=[com.yelisieiev.project.model.Employee@31322272, com.yelisieiev.project.model.Employee@4cf72fc8, com.yelisieiev.project.model.Employee@2d9cd9c5, com.yelisieiev.project.model.Employee@393c6171, com.yelisieiev.project.model.Employee@19bde596, com.yelisieiev.project.model.Employee@6cc10006, com.yelisieiev.project.model.Employee@2758beaa, com.yelisieiev.project.model.Employee@7d3564d9, com.yelisieiev.project.model.Employee@b52afbc, com.yelisieiev.project.model.Employee@6f774fe0, com.yelisieiev.project.model.Employee@d38014a, com.yelisieiev.project.model.Employee@5bfdaf98]}]
+Return value: employees/list
+==================
+
+2025-03-20 18:22:52 [main] INFO  c.y.project.ProjectApplication - Starting ProjectApplication using Java 21.0.4 with PID 10700 (C:\Users\Admin\Desktop\project\project\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\project\project)
+2025-03-20 18:22:52 [main] DEBUG c.y.project.ProjectApplication - Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-20 18:22:52 [main] INFO  c.y.project.ProjectApplication - No active profile set, falling back to 1 default profile: "default"
+2025-03-20 18:22:55 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-03-20 18:22:55 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-03-20 18:22:55 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-20 18:22:55 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-03-20 18:22:55 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2805 ms
+2025-03-20 18:22:57 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userService
+2025-03-20 18:22:57 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2025-03-20 18:22:58 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-03-20 18:22:58 [main] INFO  c.y.project.ProjectApplication - Started ProjectApplication in 6.623 seconds (process running for 7.284)
+2025-03-20 18:23:14 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-20 18:23:14 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-03-20 18:23:14 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-03-20 18:23:14 [http-nio-8080-exec-1] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: home
+Arguments: []
+Return value: index
+==================
+
+2025-03-20 18:23:28 [http-nio-8080-exec-2] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: getAllEmployees
+Arguments: [{employees=[com.yelisieiev.project.model.Employee@2573dcae, com.yelisieiev.project.model.Employee@2662ac16, com.yelisieiev.project.model.Employee@4229efea, com.yelisieiev.project.model.Employee@4e4df364, com.yelisieiev.project.model.Employee@7560d0af, com.yelisieiev.project.model.Employee@4651c009, com.yelisieiev.project.model.Employee@4b0a2196, com.yelisieiev.project.model.Employee@6a7d2d40, com.yelisieiev.project.model.Employee@19eb7d08, com.yelisieiev.project.model.Employee@5172b7b4, com.yelisieiev.project.model.Employee@4b6e2a9d, com.yelisieiev.project.model.Employee@487a199d]}]
+Return value: employees/list
+==================
+
+2025-03-20 18:23:31 [http-nio-8080-exec-6] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: home
+Arguments: []
+Return value: index
+==================
+
+2025-03-20 18:23:32 [http-nio-8080-exec-7] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: getAllEmployees
+Arguments: [{employees=[com.yelisieiev.project.model.Employee@55c6ae1a, com.yelisieiev.project.model.Employee@5b015ad2, com.yelisieiev.project.model.Employee@5f3ec56a, com.yelisieiev.project.model.Employee@1a3c50e9, com.yelisieiev.project.model.Employee@7aea8bca, com.yelisieiev.project.model.Employee@2bec898f, com.yelisieiev.project.model.Employee@2d00c0d, com.yelisieiev.project.model.Employee@7a13afa6, com.yelisieiev.project.model.Employee@5409cff5, com.yelisieiev.project.model.Employee@1be6840a, com.yelisieiev.project.model.Employee@19d4431f, com.yelisieiev.project.model.Employee@7e5db11c]}]
+Return value: employees/list
+==================
+
+2025-03-20 18:23:47 [http-nio-8080-exec-8] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: showAddEmployeeForm
+Arguments: [{employee=com.yelisieiev.project.model.Employee@447c29dd}]
+Return value: employees/add
+==================
+
+2025-03-20 18:23:56 [http-nio-8080-exec-9] ERROR o.a.c.c.C.[.[.[.[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.springframework.dao.DuplicateKeyException: PreparedStatementCallback; SQL [INSERT INTO employees (first_name, last_name, email, position, salary) VALUES (?, ?, ?, ?, ?) RETURNING id]; ERROR: duplicate key value violates unique constraint "employees_email_key"
+  Detail: Key (email)=(asdqwerty@gmail.com) already exists.] with root cause
+org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "employees_email_key"
+  Detail: Key (email)=(asdqwerty@gmail.com) already exists.
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2713)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2401)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:368)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:498)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:415)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:190)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:134)
+	at org.springframework.jdbc.core.JdbcTemplate$1.doInPreparedStatement(JdbcTemplate.java:732)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:658)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:723)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:754)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:767)
+	at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:889)
+	at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:918)
+	at com.yelisieiev.project.repository.impl.EmployeeRepositoryImpl.save(EmployeeRepositoryImpl.java:28)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:359)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:138)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.adapter.MethodBeforeAdviceInterceptor.invoke(MethodBeforeAdviceInterceptor.java:58)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:173)
+	at org.springframework.aop.framework.adapter.AfterReturningAdviceInterceptor.invoke(AfterReturningAdviceInterceptor.java:57)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:727)
+	at com.yelisieiev.project.repository.impl.EmployeeRepositoryImpl$$SpringCGLIB$$0.save(<generated>)
+	at com.yelisieiev.project.controller.WebController.addEmployee(WebController.java:48)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:359)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:196)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+	at org.springframework.aop.framework.adapter.AfterReturningAdviceInterceptor.invoke(AfterReturningAdviceInterceptor.java:57)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:184)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:727)
+	at com.yelisieiev.project.controller.WebController$$SpringCGLIB$$0.addEmployee(<generated>)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:257)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:190)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:986)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:891)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1088)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:978)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:108)
+	at org.springframework.security.web.FilterChainProxy.lambda$doFilterInternal$3(FilterChainProxy.java:231)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:365)
+	at org.springframework.security.web.access.intercept.AuthorizationFilter.doFilter(AuthorizationFilter.java:101)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:126)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:120)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:100)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:179)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:227)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:221)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:107)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:93)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.csrf.CsrfFilter.doFilterInternal(CsrfFilter.java:131)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:90)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:75)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:82)
+	at org.springframework.security.web.context.SecurityContextHolderFilter.doFilter(SecurityContextHolderFilter.java:69)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:62)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.session.DisableEncodeUrlFilter.doFilterInternal(DisableEncodeUrlFilter.java:42)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:374)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:233)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:191)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113)
+	at org.springframework.web.servlet.handler.HandlerMappingIntrospector.lambda$createCacheFilter$3(HandlerMappingIntrospector.java:243)
+	at org.springframework.web.filter.CompositeFilter$VirtualFilterChain.doFilter(CompositeFilter.java:113)
+	at org.springframework.web.filter.CompositeFilter.doFilter(CompositeFilter.java:74)
+	at org.springframework.security.config.annotation.web.configuration.WebMvcSecurityConfiguration$CompositeFilterChainProxy.doFilter(WebMvcSecurityConfiguration.java:238)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:362)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:278)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:905)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1743)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+2025-03-20 18:24:03 [http-nio-8080-exec-10] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: getAllEmployees
+Arguments: [{employees=[com.yelisieiev.project.model.Employee@729aec53, com.yelisieiev.project.model.Employee@76a566d8, com.yelisieiev.project.model.Employee@33a7e668, com.yelisieiev.project.model.Employee@27839df9, com.yelisieiev.project.model.Employee@2de152e, com.yelisieiev.project.model.Employee@5f10300b, com.yelisieiev.project.model.Employee@53881927, com.yelisieiev.project.model.Employee@68df3afa, com.yelisieiev.project.model.Employee@1ada35aa, com.yelisieiev.project.model.Employee@4414de92, com.yelisieiev.project.model.Employee@57c6a616, com.yelisieiev.project.model.Employee@46df4efe]}]
+Return value: employees/list
+==================
+
+2025-03-20 18:24:07 [http-nio-8080-exec-1] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: showAddEmployeeForm
+Arguments: [{employee=com.yelisieiev.project.model.Employee@50cfdd25}]
+Return value: employees/add
+==================
+
+2025-03-20 18:24:25 [http-nio-8080-exec-3] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: addEmployee
+Arguments: [com.yelisieiev.project.model.Employee@497c0151, org.springframework.validation.BeanPropertyBindingResult: 0 errors]
+Return value: redirect:/employees
+==================
+
+2025-03-20 18:24:26 [http-nio-8080-exec-4] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: getAllEmployees
+Arguments: [{employees=[com.yelisieiev.project.model.Employee@7c7e1a0a, com.yelisieiev.project.model.Employee@5799a4bc, com.yelisieiev.project.model.Employee@388ad63a, com.yelisieiev.project.model.Employee@291d6c84, com.yelisieiev.project.model.Employee@25bf8de7, com.yelisieiev.project.model.Employee@3f9971a8, com.yelisieiev.project.model.Employee@51cc5b67, com.yelisieiev.project.model.Employee@13777496, com.yelisieiev.project.model.Employee@4a7e13aa, com.yelisieiev.project.model.Employee@3e1e2f7c, com.yelisieiev.project.model.Employee@dba4cbb, com.yelisieiev.project.model.Employee@25c15a5e, com.yelisieiev.project.model.Employee@1f18ee0f]}]
+Return value: employees/list
+==================
+
+2025-03-20 18:24:57 [main] INFO  c.y.project.ProjectApplication - Starting ProjectApplication using Java 21.0.4 with PID 2960 (C:\Users\Admin\Desktop\project\project\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\project\project)
+2025-03-20 18:24:57 [main] DEBUG c.y.project.ProjectApplication - Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-20 18:24:57 [main] INFO  c.y.project.ProjectApplication - No active profile set, falling back to 1 default profile: "default"
+2025-03-20 18:25:00 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-03-20 18:25:00 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-03-20 18:25:00 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.36]
+2025-03-20 18:25:00 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-03-20 18:25:00 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2710 ms
+2025-03-20 18:25:02 [main] INFO  o.s.s.c.a.a.c.InitializeUserDetailsBeanManagerConfigurer$InitializeUserDetailsManagerConfigurer - Global AuthenticationManager configured with UserDetailsService bean with name userService
+2025-03-20 18:25:02 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page template: index
+2025-03-20 18:25:03 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-03-20 18:25:03 [main] INFO  c.y.project.ProjectApplication - Started ProjectApplication in 6.442 seconds (process running for 7.348)
+2025-03-20 18:25:15 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-03-20 18:25:15 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-03-20 18:25:15 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-03-20 18:25:34 [http-nio-8080-exec-4] INFO  c.y.p.aspect.ControllerLoggingAspect - 
+=== Web Controller AOP Logging ===
+Controller: WebController
+Method: getAllEmployees
+Arguments: [{employees=[com.yelisieiev.project.model.Employee@36da9da2, com.yelisieiev.project.model.Employee@1bee9a5e, com.yelisieiev.project.model.Employee@30ffd59e, com.yelisieiev.project.model.Employee@5c1bc9ed, com.yelisieiev.project.model.Employee@3ece7841, com.yelisieiev.project.model.Employee@519d39ac, com.yelisieiev.project.model.Employee@1f005524, com.yelisieiev.project.model.Employee@1dd6a388, com.yelisieiev.project.model.Employee@5017cc03, com.yelisieiev.project.model.Employee@687fcff4, com.yelisieiev.project.model.Employee@75cb1eaa, com.yelisieiev.project.model.Employee@5d293978, com.yelisieiev.project.model.Employee@33b0910a]}]
+Return value: employees/list
+==================
+
