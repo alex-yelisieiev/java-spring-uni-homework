@@ -3,6 +3,8 @@ package com.yelisieiev.project.aspect;
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.messaging.simp.SimpMessagingTemplate;
 import org.springframework.stereotype.Component;
 
 import com.yelisieiev.project.model.Employee;
@@ -35,4 +37,7 @@ public class EmployeeAspect {
             }
         }
     }
+
+    @Autowired
+    private SimpMessagingTemplate messagingTemplate;
 }
